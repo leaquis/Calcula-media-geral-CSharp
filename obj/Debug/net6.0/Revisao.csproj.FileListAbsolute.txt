@@ -1,0 +1,15 @@
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.exe
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.deps.json
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.dll
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.pdb
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.dll
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.pdb
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+A:\Cursos\DIO\DIO GFT Start #5 .NET\modulo 3\Primeiros passos com .NET\Revisao\obj\Debug\net6.0\ref\Revisao.dll
